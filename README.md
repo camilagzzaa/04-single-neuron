@@ -1,5 +1,4 @@
-# 04-single-neuron
-# Fraud Detection – Single Neuron Model
+# 04 Single Neuron Model - Fraud Detection
 
 ## Overview
 
