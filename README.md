@@ -145,6 +145,6 @@ One additional dependency must be installed in Colab:
 
 * Mariana Samperio – [[GitHub repository link](https://github.com/mariana-samperio-cuevas/SingleNeuron-Network-with-and-without-PCA.git)]
 * Matteo Peroni – [GitHub repository link]
-* Camila Gonzalez – [[GitHub repository link](https://github.com/camilagzzaa/04-single-neuron.git)]
+* Camila Gonzalez – [[GitHub repository link](https://github.com/camilagzzaa/SingleNeuron-Network-with-and-without-PCA.git)]
 
 
